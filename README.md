@@ -1,4 +1,4 @@
-### Hello and welcome to my github page.
+### Hello and welcome!
 
 My name is Will and I am a programmer doing _web stuff_ professionally.
 
