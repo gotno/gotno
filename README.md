@@ -1,4 +1,4 @@
-### Hello and welcome!
+### Hello
 
 My name is Will and I am a programmer doing _web stuff_ professionally.
 
